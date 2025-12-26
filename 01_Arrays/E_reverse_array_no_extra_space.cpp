@@ -2,7 +2,7 @@
 when they say extra space they mean in terms of an mrray or a matrix, extra space in terms of single int variables for example can be used
 is also called two pointer approach*/
 //space complexity: O(1);
-//time complexity: O(n)
+//time complexity: O(n/2) = O(n)
 #include<iostream>
 using namespace std;
 
