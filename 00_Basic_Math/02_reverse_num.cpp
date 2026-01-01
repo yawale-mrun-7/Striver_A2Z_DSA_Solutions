@@ -1,3 +1,7 @@
+/*Solution to reverse a number
+Space Complexity: O(1)
+Time Complexity: O(d) == O(logn)
+*/
 #include<iostream>
 #include<climits>
 using namespace std;
