@@ -1,7 +1,7 @@
 /* Solution to count the digits, which includes the edge case num=0, using recursion
 Space Complexity: O(logn) [No. of recursive calls = no. of call stacks required]
 Time Complexity: O(logn) [No. of recursive calls = no. of digits (approx. log 10 n)]
-This approach is not preferred much due to the increased time complexity*/
+This approach is not preferred much due to the increased space complexity*/
 #include<iostream>
 using namespace std;
 
