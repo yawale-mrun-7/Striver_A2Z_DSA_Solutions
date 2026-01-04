@@ -1,6 +1,6 @@
 /*To check if the given number is an armstrong number
 Space Complexity: O(1)
-Time Complexity: O(logN+1) where N is the input number
+Time Complexity: O(logN+1) where N is the input number (+1 for edge case numbers ending with 0)
 This is because here the time complexity will depend upon the number of digits 
 in the inputted number
 eg. N=1000
