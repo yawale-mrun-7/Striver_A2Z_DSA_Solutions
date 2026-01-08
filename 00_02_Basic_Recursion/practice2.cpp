@@ -1,6 +1,6 @@
 /*Solution to print numbers from 1 to n using backtracking
 Space Complexity: O(n) recursive call stack
-Time Complexity: 
+Time Complexity: O(n) printing every number from 1 to n
 */
 #include<iostream>
 using namespace std;
